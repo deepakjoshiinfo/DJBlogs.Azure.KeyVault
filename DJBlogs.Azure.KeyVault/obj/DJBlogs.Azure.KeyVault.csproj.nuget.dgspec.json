@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\indj01129\\source\\repos\\DJBlogs.Azure.KeyVault\\DJBlogs.Azure.KeyVault\\DJBlogs.Azure.KeyVault.csproj": {}
+    "C:\\Users\\indj01129\\Source\\Repos\\DJBlog.Azure.KeyVault\\DJBlogs.Azure.KeyVault\\DJBlogs.Azure.KeyVault.csproj": {}
   },
   "projects": {
-    "C:\\Users\\indj01129\\source\\repos\\DJBlogs.Azure.KeyVault\\DJBlogs.Azure.KeyVault\\DJBlogs.Azure.KeyVault.csproj": {
+    "C:\\Users\\indj01129\\Source\\Repos\\DJBlog.Azure.KeyVault\\DJBlogs.Azure.KeyVault\\DJBlogs.Azure.KeyVault.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\indj01129\\source\\repos\\DJBlogs.Azure.KeyVault\\DJBlogs.Azure.KeyVault\\DJBlogs.Azure.KeyVault.csproj",
+        "projectUniqueName": "C:\\Users\\indj01129\\Source\\Repos\\DJBlog.Azure.KeyVault\\DJBlogs.Azure.KeyVault\\DJBlogs.Azure.KeyVault.csproj",
         "projectName": "DJBlogs.Azure.KeyVault",
-        "projectPath": "C:\\Users\\indj01129\\source\\repos\\DJBlogs.Azure.KeyVault\\DJBlogs.Azure.KeyVault\\DJBlogs.Azure.KeyVault.csproj",
+        "projectPath": "C:\\Users\\indj01129\\Source\\Repos\\DJBlog.Azure.KeyVault\\DJBlogs.Azure.KeyVault\\DJBlogs.Azure.KeyVault.csproj",
         "packagesPath": "C:\\Users\\indj01129\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\indj01129\\source\\repos\\DJBlogs.Azure.KeyVault\\DJBlogs.Azure.KeyVault\\obj\\",
+        "outputPath": "C:\\Users\\indj01129\\Source\\Repos\\DJBlog.Azure.KeyVault\\DJBlogs.Azure.KeyVault\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\indj01129\\AppData\\Roaming\\NuGet\\NuGet.Config",

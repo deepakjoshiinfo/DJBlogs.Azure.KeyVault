@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LQc/EFOwRDrcs1Z0A4qUNjnMypmCqI1J505oqDcMi2c9wzAy5y35ibGLAMQRE1Pfww4V1QCavC0rZZj01AcFmQ==",
+  "dgSpecHash": "DjC7CTjSyQ6/l2W1v63dXJGYfFmBWx2gycKZnrQruGYqdrHDVZSQ3aUFleTXIFUbYBra9LhXfrQbBHK6Orit9A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\indj01129\\source\\repos\\DJBlogs.Azure.KeyVault\\DJBlogs.Azure.KeyVault\\DJBlogs.Azure.KeyVault.csproj",
+  "projectFilePath": "C:\\Users\\indj01129\\Source\\Repos\\DJBlog.Azure.KeyVault\\DJBlogs.Azure.KeyVault\\DJBlogs.Azure.KeyVault.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\indj01129\\.nuget\\packages\\azure.core\\1.10.0\\azure.core.1.10.0.nupkg.sha512",
     "C:\\Users\\indj01129\\.nuget\\packages\\azure.identity\\1.3.0\\azure.identity.1.3.0.nupkg.sha512",
